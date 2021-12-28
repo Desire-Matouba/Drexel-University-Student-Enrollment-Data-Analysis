@@ -1,4 +1,7 @@
 #Drexel-University-Student-Enrollment-Data-Analysis
+
+
+
 I was given two CSV Files to analyze by using data visualization for a Data Analyst interview with Drexel University. Below are some of the guiding principles that I received from the hiring committee:
 
 1. We have two goals with this task. First, we want to get a sense for how you approach a new dataset; we encourage you to preserve all the code you write, regardless if you use it in the presentation. Second, we want to see how you present information to technical and non-technical people.
